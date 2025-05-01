@@ -41,7 +41,7 @@
 
 
 
-<a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/mainak-bhattacharjee-304a662aa)" target="_blank">
+<a href="https://www.linkedin.com/in/mainak-bhattacharjee-304a662aa" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
 </a>
 &nbsp;
-<a href="[https://www.instagram.com/your-instagram/](https://www.instagram.com/mainak_bhatt?igsh=a2c5MG1mdGVuMXF1)" target="_blank">
+<a href="https://www.instagram.com/mainak_bhatt?igsh=a2c5MG1mdGVuMXF1" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
 </a>
 
