@@ -27,8 +27,6 @@
 
 -🧰 Tools/Editors: VS Code, Git & GitHub, Figma,Photoshop, Premiere Pro
 
--🧪 Currently Learning: DSA, Microprocessors, Figma
-
 -🕹️ Interests: Video Editing, Graphics Design, Web Dev, AI
 
 ---
