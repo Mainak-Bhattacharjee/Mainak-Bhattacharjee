@@ -23,11 +23,11 @@
 
 ## ⚙️ Tech Stack
 
--💻 Languages: Python, C, JavaScript, HTML, CSS
+- 💻 Languages: Python, C, JavaScript, HTML, CSS
 
--🧰 Tools/Editors: VS Code, Git & GitHub, Figma,Photoshop, Premiere Pro
+- 🧰 Tools/Editors: VS Code, Git & GitHub, Figma,Photoshop, Premiere Pro
 
--🕹️ Interests: Video Editing, Graphics Design, Web Dev, AI
+- 🕹️ Interests: Video Editing, Graphics Design, Web Dev, AI
 
 ---
 
