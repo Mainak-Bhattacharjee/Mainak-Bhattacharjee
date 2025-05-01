@@ -7,7 +7,7 @@
 
 ---
 
-### 🧑‍🎓 About Me
+## 🧑‍🎓 About Me
 
 - 🔭 I’m currently pursuing a **Integrated M.Sc. in Computer Science** from **Assam University**
   
@@ -21,7 +21,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 -💻 Languages: Python, C, JavaScript, HTML, CSS
 
@@ -55,12 +55,12 @@
 
 </div>
 
----
 
 > 💬 *Let’s build the future — one idea, one project, one line of code at a time!* 🚀🧠🎨
 
+---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mainak-Bhattacharjee&show_icons=true&theme=tokyonight" />
@@ -80,7 +80,7 @@
 
 
 
-### 💼 Featured Projects
+## 💼 Featured Projects
 
 - 🚀 **University Website**
   
@@ -94,7 +94,7 @@
 
 ---
 
-### 🎨 Fun Fact
+## 🎨 Fun Fact
 
 > “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs 😌
 
