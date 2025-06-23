@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Mainak</h1>
+<h1 align="center">Hi 👋, I'm Mainak</h1>
 <h3 align="center">🎓 Computer Science Student | 💻 Tech Enthusiast | 🎨 Designer & 🎬 Editor</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 - 💻 Languages: Python, C, JavaScript, HTML, CSS
 
-- 🧰 Tools/Editors: VS Code, Git & GitHub, Figma,Photoshop, Premiere Pro
+- 🧰 Tools/Editors: VS Code, Git & GitHub, Figma, Photoshop, Premiere Pro
 
 - 🕹️ Interests: Video Editing, Graphics Design, Web Dev, AI
 
