@@ -93,12 +93,7 @@
 > 🧠 *More cool stuff coming soon... stay tuned!*
 
 ---
-
-## 🎨 Fun Fact
-
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs 😌
-
----
+-
 
 ⭐️ Thanks for visiting my profile! Let’s build something amazing together! 🚀  
 
