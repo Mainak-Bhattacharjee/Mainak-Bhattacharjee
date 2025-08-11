@@ -39,21 +39,22 @@
 🎯 Whether you're into code, creative edits, or just curious convos —  
 **I'm always up for a chat, collab, or techy brainstorm session!** 🤝
 
-
-
-<a href="https://www.linkedin.com/in/mainak-bhattacharjee-304a662aa" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:mainak.code@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/mainak_bhatt?igsh=a2c5MG1mdGVuMXF1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-</a>
-
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mainak-bhattacharjee-om" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="42px" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mainakbhattacharjee20@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" width="42px" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mainak_bhatt?igsh=a2c5MG1mdGVuMXF1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="42px" alt="Instagram" />
+  </a>
+</p>
+
 
 
 > 💬 *Let’s build the future — one idea, one project, one line of code at a time!* 🚀🧠🎨
@@ -62,18 +63,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mainak-Bhattacharjee&show_icons=true&theme=tokyonight" />
-</p>
-
-<!---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mainak-Bhattacharjee&theme=tokyonight" />
+<!---<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mainak-Bhattacharjee&show_icons=true&theme=tokyonight" height="200" />
 </p>
 --->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainak-Bhattacharjee&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainak-Bhattacharjee&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,figma,photoshop,premiere" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mainak-Bhattacharjee&show_icons=true&theme=tokyonight" height="180" />
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mainak-Bhattacharjee&theme=tokyo-night" height="180" />
 </p>
 
 ---
