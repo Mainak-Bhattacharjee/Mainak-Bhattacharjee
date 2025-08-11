@@ -42,7 +42,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mainakbhattacharjee" target="_blank">
+  <a href="https://www.linkedin.com/in/mainak-bhattacharjee-304a662aa" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="42px" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
