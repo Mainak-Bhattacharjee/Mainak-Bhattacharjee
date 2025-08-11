@@ -72,9 +72,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainak-Bhattacharjee&layout=compact&theme=tokyonight" height="180" />
 </p>
 
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,figma,photoshop,premiere" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mainak-Bhattacharjee&show_icons=true&theme=tokyonight" height="180" />
